@@ -1172,6 +1172,7 @@ section.lazy-placeholder:after {
 }
 .cid-srJGWHA2Dj .item3 {
   color: #373741;
+  text-align: left;
 }
 .cid-srJGWHA2Dj .item4 {
   color: #373741;
@@ -1196,59 +1197,114 @@ section.lazy-placeholder:after {
 .cid-srJGWPr3O1 H3 {
   color: #716c80;
 }
-.cid-srJGWQLd9z {
+.cid-srOFXyxTXg {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #e1d8d0;
 }
-.cid-srJGWQLd9z h3 {
+.cid-srOFXyxTXg h3 {
   text-align: center;
   font-weight: 300;
 }
-.cid-srJGWQLd9z .wrap {
+.cid-srOFXyxTXg .wrap {
   width: 150px;
   height: 150px;
   margin: 0 auto;
 }
-.cid-srJGWQLd9z .mbr-section-subtitle {
+.cid-srOFXyxTXg .mbr-section-subtitle {
   color: #767676;
 }
-.cid-srJGWQLd9z .card {
+.cid-srOFXyxTXg .card {
   -webkit-flex-basis: 100%;
   flex-basis: 100%;
   word-wrap: break-word;
 }
-.cid-srJGWQLd9z ellipse {
+.cid-srOFXyxTXg ellipse {
   stroke: white;
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-srJGWQLd9z .card {
+  .cid-srOFXyxTXg .card {
     -webkit-flex-basis: 50%;
     flex-basis: 50%;
   }
 }
-.cid-srJGWQLd9z .progress1 path {
+.cid-srOFXyxTXg .progress1 path {
   stroke: #373741;
 }
-.cid-srJGWQLd9z .progress2 path {
+.cid-srOFXyxTXg .progress2 path {
   stroke: #373741;
 }
-.cid-srJGWQLd9z .progress3 path {
-  stroke: #637892;
+.cid-srOFXyxTXg .progress3 path {
+  stroke: #373741;
 }
-.cid-srJGWQLd9z .progress4 path {
-  stroke: #ced5de;
+.cid-srOFXyxTXg .progress4 path {
+  stroke: #373741;
 }
-.cid-srJGWQLd9z H4 {
+.cid-srOFXyxTXg H4 {
   color: #1d1f33;
 }
-.cid-srJGWQLd9z card-text {
+.cid-srOFXyxTXg card-text {
   color: #ff3366;
 }
-.cid-srJGWQLd9z .card-text {
+.cid-srOFXyxTXg .card-text {
   color: #3d4a5a;
 }
-.cid-srJGWQLd9z .number {
+.cid-srOFXyxTXg .number {
+  color: #1d1f33;
+}
+.cid-srOFYlEY7t {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #e1d8d0;
+}
+.cid-srOFYlEY7t h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-srOFYlEY7t .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-srOFYlEY7t .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-srOFYlEY7t .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-srOFYlEY7t ellipse {
+  stroke: white;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-srOFYlEY7t .card {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+  }
+}
+.cid-srOFYlEY7t .progress1 path {
+  stroke: #373741;
+}
+.cid-srOFYlEY7t .progress2 path {
+  stroke: #373741;
+}
+.cid-srOFYlEY7t .progress3 path {
+  stroke: #373741;
+}
+.cid-srOFYlEY7t .progress4 path {
+  stroke: #373741;
+}
+.cid-srOFYlEY7t H4 {
+  color: #1d1f33;
+}
+.cid-srOFYlEY7t card-text {
+  color: #ff3366;
+}
+.cid-srOFYlEY7t .card-text {
+  color: #3d4a5a;
+}
+.cid-srOFYlEY7t .number {
   color: #1d1f33;
 }
 .cid-srJGWUcU9s {
@@ -1703,7 +1759,7 @@ section.lazy-placeholder:after {
 .cid-srJGX6kSaK .card-img span {
   font-size: 96px;
   color: #149dcc;
-  padding: 0.6rem;
+  padding: 0.1rem;
   margin-right: 1.5rem;
   margin-bottom: 25rem ;
   border-radius: 8px;
@@ -2664,10 +2720,10 @@ section.lazy-placeholder:after {
   stroke: #373741;
 }
 .cid-soeem78KKJ .progress3 path {
-  stroke: #637892;
+  stroke: #373741;
 }
 .cid-soeem78KKJ .progress4 path {
-  stroke: #ced5de;
+  stroke: #373741;
 }
 .cid-soeem78KKJ H4 {
   color: #1d1f33;
@@ -2679,6 +2735,61 @@ section.lazy-placeholder:after {
   color: #3d4a5a;
 }
 .cid-soeem78KKJ .number {
+  color: #1d1f33;
+}
+.cid-srOCmmkm9H {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #e1d8d0;
+}
+.cid-srOCmmkm9H h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-srOCmmkm9H .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-srOCmmkm9H .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-srOCmmkm9H .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-srOCmmkm9H ellipse {
+  stroke: white;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-srOCmmkm9H .card {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+  }
+}
+.cid-srOCmmkm9H .progress1 path {
+  stroke: #373741;
+}
+.cid-srOCmmkm9H .progress2 path {
+  stroke: #373741;
+}
+.cid-srOCmmkm9H .progress3 path {
+  stroke: #373741;
+}
+.cid-srOCmmkm9H .progress4 path {
+  stroke: #373741;
+}
+.cid-srOCmmkm9H H4 {
+  color: #1d1f33;
+}
+.cid-srOCmmkm9H card-text {
+  color: #ff3366;
+}
+.cid-srOCmmkm9H .card-text {
+  color: #3d4a5a;
+}
+.cid-srOCmmkm9H .number {
   color: #1d1f33;
 }
 .cid-soeeah8nRv {
@@ -2741,10 +2852,10 @@ section.lazy-placeholder:after {
   content: '100';
 }
 .cid-soeeah8nRv .progress2 .progressbar-number:before {
-  content: '71';
+  content: '75';
 }
 .cid-soeeah8nRv .progress3 .progressbar-number:before {
-  content: '72';
+  content: '75';
 }
 .cid-soeeah8nRv .progress4 .progressbar-number:before {
   content: '53';
@@ -3133,7 +3244,7 @@ section.lazy-placeholder:after {
 .cid-soet85tyzg .card-img span {
   font-size: 96px;
   color: #149dcc;
-  padding: 0.6rem;
+  padding: 0.1rem;
   margin-right: 1.5rem;
   margin-bottom: 25rem ;
   border-radius: 8px;
